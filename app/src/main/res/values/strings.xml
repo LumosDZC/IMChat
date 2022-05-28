@@ -1,0 +1,33 @@
+<resources>
+    <!--APP-->
+    <string name="app_name">name</string>
+    <string name="nav_user">个人中心</string>
+    <string name="nav_home">主页</string>
+    <string name="user_name">用户名</string>
+
+    <!-- 登录语句 -->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_account">手机号</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录或注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="logout">退出登录</string>
+    <string name="welcome">"欢迎 !"</string>
+    <string name="invalid_phone">手机号无效</string>
+    <string name="invalid_password">密码长度必须 >6 个字符</string>
+    <string name="login_failed">"登录失败"</string>
+
+    <string name="agreement">已阅读并同意xxx用户服务协议及隐私保护协议</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="reset_password">修改密码</string>
+
+    <!--用户-->
+    <string name="user_center">用户中心</string>
+    <string name="name">姓名</string>
+    <string name="age">年龄</string>
+    <string name="sex">性别</string>
+    <string name="occupation">职业</string>
+
+    <string name="please_input">请输入</string>
+    <string name="title_home">Home</string>
+</resources>
